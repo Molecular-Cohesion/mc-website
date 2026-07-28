@@ -22,6 +22,11 @@ Railroads don't sit in the dirt and neither will yours. Transporting the ballast
 
 ![Shoveling ballast into wheelbarrow and dumping it on the ground](./assets/img/BallastGif.gif "Ballast Gif")
 
+# All orderings are fine
+An important lesson I've learned is that a good job simulator never tells you how to do your job, only that it needs doing. If you want to build all right side rails first, that's none my business 😅  Thanks to the hex grid, all freeform construction is guaranteed to line up eventually. 
+
+![Dragging railroad ties over a railbed and dropping it in place, followed by moving the rail, then hitting spikes with a hammer](./assets/img/Ordering.gif "Ordering Gif")
+
 # Simulating engines
 The sawmill is the testbed for the simulation that will enable the locomotives. All the concepts are here. Fuel, temperature, drafting, pressure, piston phase, and force interactions with the physics world (the log in this case). Cutting logs effectively is also operating the steam engine effectively. 
 
