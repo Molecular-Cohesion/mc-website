@@ -1,0 +1,21 @@
+title: "Molecular Cohesion"
+description: "Advanced materials science and applied chemistry solutions for industry."
+url: ""
+baseurl: ""
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+nav:
+  - name: Home
+    url: /
+  - name: About
+    url: /about/
+  - name: Services
+    url: /services/
+  - name: Contact
+    url: /contact/
